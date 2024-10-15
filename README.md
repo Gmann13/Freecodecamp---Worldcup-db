@@ -110,10 +110,3 @@ Contributions are welcome! To contribute:
 5. **Create a pull request.**
 
 ---
-If you have any questions or feedback, feel free to reach out:
-
-- **GitHub:** [your-username](https://github.com/your-username)
-
----
-
-Let me know if you'd like any further modifications or additions!
